@@ -1,0 +1,73 @@
+body{
+  background: rgb(245,245,245);
+  color: rgb(10,10,10);
+  font-size: 15px;
+  font-family: Montserrat, san-serif;
+  text-align: center;
+}
+h1{
+  font-family: Mansalva;
+  color: rgb(24, 214, 138);
+  font-weight: lighter;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: Mansalva;
+  color: rgb(255, 74, 80);
+  font-weight: lighter;
+  font-size: 30px;
+  text-align: center;
+ }
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(232, 232, 232);
+  text-align: center;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/pink.jpg");
+  background-size: cover;
+  padding: 120px;
+  color: rgb(24, 214, 138);
+  text-shadow: 1px 1px 5px grey;
+  text-align: center;
+}
+#banner h1 {
+  color: rgb(24, 214, 138);
+  font-size: 50px;
+  text-align: center;
+}
+#banner h2 {
+  pading: 0px
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+#footer{
+  padding: 30px;
+  background: rgb(24, 214, 138);
+  color: white;
+  font-family: Montserrat, san-serif;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: rgb(232, 232, 232);
+}
+
+.card{
+  padding: 20px;
+  font-weight: lighter;
+  font-family: Montserrat, san-serif;
+  text-align: center;
+}
